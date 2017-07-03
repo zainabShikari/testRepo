@@ -32,28 +32,28 @@
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1499116301000,
             "changeTime": 1499116301000,
-            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea"
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 204,
-            "modifiedTime": 1499115912000,
-            "changeTime": 1499115912000,
-            "contentHash": "9326376ac7a83fa55b6297fd323171c02c6fa6d0",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 272,
+            "modifiedTime": 1499117091000,
+            "changeTime": 1499117091000,
+            "isWorkspace": false,
+            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
         }
     ],
     [
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1499115988000,
-            "changeTime": 1499115988000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 206,
+            "modifiedTime": 1499116992000,
+            "changeTime": 1499116992000,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1061,14 +1061,14 @@
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 334,
-            "modifiedTime": 1499115931000,
-            "changeTime": 1499115931000,
-            "contentHash": "8bc7614f82244bbe832f4be0cf07d5c8c2171640",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 403,
+            "modifiedTime": 1499117208000,
+            "changeTime": 1499117208000,
+            "contentHash": "f1b5a8f16c3b202cf4dd4b43495afa14209af79b"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1499115944000,
-            "changeTime": 1499115944000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1499117266000,
+            "changeTime": 1499117266000,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -1217,40 +1217,170 @@
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 209,
             "modifiedTime": 1499116301000,
             "changeTime": 1499116301000,
-            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07"
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources/leaflet.resource",
         {
-            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources/leaflet.resource",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 480856,
             "modifiedTime": 1499116301000,
             "changeTime": 1499116301000,
-            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f"
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1499116301000,
             "changeTime": 1499116301000,
-            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1499116889000,
+            "changeTime": 1499116889000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1499117294000,
+            "changeTime": 1499117294000,
+            "contentHash": "b562da103f3b2d1cfdad0884950426c038bc407e"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1499116889000,
+            "changeTime": 1499116889000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1499116970000,
+            "changeTime": 1499116970000,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 898,
+            "modifiedTime": 1499117334000,
+            "changeTime": 1499117334000,
+            "contentHash": "e5fa1907532eba47b18473e3ed8232568fdb1adc"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1499116889000,
+            "changeTime": 1499116889000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1499116889000,
+            "changeTime": 1499116889000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1499117091000,
+            "changeTime": 1499117091000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1499117130000,
+            "changeTime": 1499117130000,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/zainab_shikari/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1499117091000,
+            "changeTime": 1499117091000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
